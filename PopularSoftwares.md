@@ -96,7 +96,6 @@
     - 办公套件
         - Libre Office
         - WPS Office
-        - Latex
     - 笔记记事
         - Google Keep
         - WizNote
@@ -107,6 +106,7 @@
         - Latexila
         - Lyx
         - TeXstudio
+        - Texlive
     - 科学软件
         - Mendeley
 - 虚拟化
@@ -141,11 +141,10 @@
         - [Gnome Terminal](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#gnome-terminal)
         - [Terminator](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#terminator)
         - [tmux](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#tmux)
-        - 
+        - Tilix
     - Shell
         - Zsh
         - Fish
-        - Tilix
     - 启动盘制作工具
         - UNetbootin
 - 系统管理
