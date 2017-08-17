@@ -14,6 +14,7 @@
         - [Thunderbird](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#thunderbird)
         - [Evolution](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#evolution)
         - Geary
+        - Nylas
         - [Mutt](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#mutt)
     - 即时聊天
         - [QQ](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#qq)
@@ -49,8 +50,9 @@
     - 音乐播放
         - [kwplayer](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#kwplayer)
         - [FeelUOwn](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#feeluown)
-        - [网易云音乐 Linux客户端]
+        - 网易云音乐 Linux客户端
         - [Banshee](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#banshee)
+        - [网易云音乐]
         - [Rhythmbox](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#rhythmbox)
     - 视频播放
         - [SMPlayer](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#smplayer)
@@ -60,6 +62,13 @@
     - 图像浏览
         - [Eye of GNOME(EOG)](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#eye-of-gnomeeog)
         - [gThumb](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#gthumb)
+    - 屏幕录制
+        - OBS
+        - 
+    - 音频编辑
+        - Ocenaudio
+
+    - 视频编辑
 - 游戏娱乐
     - 游戏平台
         - [Steam](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#steam)
@@ -97,6 +106,7 @@
         - Latexila
         - Lyx
         - TeXstudio
+        - Texlive
     - 科学软件
         - Mendeley
 - 虚拟化
@@ -112,6 +122,7 @@
         - Psensor
     - 系统监视
         - System Monitor
+        - Htop
         - 
     - 远程控制
         - TeamViewer
@@ -130,7 +141,10 @@
         - [Gnome Terminal](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#gnome-terminal)
         - [Terminator](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#terminator)
         - [tmux](https://github.com/MintCN/Basics/blob/master/PopularSoftwares.md#tmux)
+        - Tilix
     - Shell
+        - Zsh
+        - Fish
     - 启动盘制作工具
         - UNetbootin
 - 系统管理
